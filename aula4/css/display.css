@@ -1,0 +1,27 @@
+body{
+    font-size: 32px;
+}
+
+.empresa{
+    background-color: pink;
+}
+
+.area{
+    background-color: red;
+}
+
+.celulares{
+    background-color: green;
+}
+
+.impressoras{
+    background-color: yellow;
+}
+
+.computadores{
+    background-color: blue;
+}
+
+.roteadores{
+    background-color: brown;
+}

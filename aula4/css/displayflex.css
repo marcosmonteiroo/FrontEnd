@@ -1,0 +1,11 @@
+.container {
+    border: 3px solid black;
+    height: 640px;
+    width: 480px;
+  }
+  
+  .elementos {
+    border: 2px solid red;
+    height: 120px;
+    width: 120px;
+  }

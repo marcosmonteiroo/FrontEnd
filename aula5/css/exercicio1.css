@@ -1,0 +1,41 @@
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .teste {
+    background-color: gray;
+    height: 60vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: first baseline;
+  }
+  .D, .C, .B, .A{
+    align-items: center;
+    padding: 10px;
+    border-radius: 50%;
+
+  }
+  
+  .D {
+    border: 2px solid rgb(47, 255, 141);
+    background-color: rgb(47, 255, 141);
+   
+  }
+  .C {
+    border: 2px solid rgb(255, 47, 47);
+    background-color: rgb(255, 47, 47);
+  
+  }
+  .B {
+    border: 2px solid rgb(241, 255, 47);
+    background-color: rgb(241, 255, 47);
+   
+  }
+  .A {
+    border: 2px solid rgb(38, 28, 175);
+    background-color: rgb(38, 28, 175);
+   
+  }
+  
